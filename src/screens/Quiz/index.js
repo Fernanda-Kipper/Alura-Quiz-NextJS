@@ -81,6 +81,7 @@ function QuestionWidget ({
         }
         setTimeout(() => {
           handleSubmit()
+          setSelectedAlternative(undefined)
           SetFormSubmted(false)
         }, 1000)
       }}
@@ -100,8 +101,9 @@ function QuestionWidget ({
             <input
               id={alternativeId}
               name={questionIndex}
-              onChange={() => setSelectedAlternative(alternativeIndex)}
+              onClick={() => setSelectedAlternative(alternativeIndex)}
               type="radio"
+              style={{ display: 'none' }}
             />
             {alternative}
           </Widget.Topic>
