@@ -6,7 +6,6 @@
 
 O projeto consiste numa aplicação web, mais especificamente um quiz de perguntas e respostas. Esse projeto foi desenvolvido durante a Imersão React da Alura com Next JS. O tema do quiz era de livre escolha, poderíamos utilizar o Layout base ou escolher nosso background e paleta de cores - escolhi a segunda opção. Construímos o quiz desde o zero, passando por vários conceitos importante do mundo React e Next JS.
 
- <img src="/assets/landingPage.gif" width="1000px" height="500px">
  
  ## Deploy 📲
 Realizamos o deploy do projeto - completamente funcional - na Vercel. 
