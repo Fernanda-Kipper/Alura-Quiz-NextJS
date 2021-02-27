@@ -4,17 +4,15 @@
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square)](LICENSE)
 
+## O Projeto ℹ
+
 O projeto consiste numa aplicação web, mais especificamente um quiz de perguntas e respostas. Esse projeto foi desenvolvido durante a Imersão React da Alura com Next JS. O tema do quiz era de livre escolha, poderíamos utilizar o Layout base ou escolher nosso background e paleta de cores - escolhi a segunda opção. Construímos o quiz desde o zero, passando por vários conceitos importante do mundo React e Next JS.
 
- 
- ## Deploy 📲
-Deploy do projeto - completamente funcional - na Vercel. 
-
-[Visite clicando aqui](https://alura-quiz-avengers.fernanda-kipper.vercel.app/)
+📌[Visite clicando aqui](https://alura-quiz-avengers.fernanda-kipper.vercel.app/)
 
 Sinta-se desafiado em responder as perguntas
 
-## Conceitos aplicados
+## Conceitos que coloquei em prática
 
 - Styled Components
 
@@ -25,4 +23,17 @@ Sinta-se desafiado em responder as perguntas
 - Animações com Framer Motion
 
 - Padronização do código com Eslint
+
+## 💻 Rodando Localmente
+
+Para rodar o Quiz localmente em modo de desenvolvimento você deve:
+
+```
+git clone https://github.com/Fernanda-Kipper/Alura-Quiz-NextJS.git project_name
+cd project_name
+npm install
+npm run-script dev
+```
+
+No local de npm você pode utilizar o package manager de sua preferência
 
