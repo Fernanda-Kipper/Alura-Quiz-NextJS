@@ -8,12 +8,13 @@ O projeto consiste numa aplicação web, mais especificamente um quiz de pergunt
 
  
  ## Deploy 📲
-Realizamos o deploy do projeto - completamente funcional - na Vercel. 
-Sinta-se desafiado em responder as perguntas 🧐🧐
+Deploy do projeto - completamente funcional - na Vercel. 
 
-[Clique aqui](https://alura-quiz-avengers.fernanda-kipper.vercel.app/)
+[Visite clicando aqui](https://alura-quiz-avengers.fernanda-kipper.vercel.app/)
 
-## 🔎 O que vimos durante a Imersão 🔎
+Sinta-se desafiado em responder as perguntas
+
+## Conceitos aplicados
 
 - Styled Components
 
