@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/day8/re-frame.svg)](LICENSE)
 
-## O Projeto ℹ
+## O Projeto
 
 O projeto consiste numa aplicação web, mais especificamente um quiz de perguntas e respostas. Esse projeto foi desenvolvido durante a Imersão React da Alura com Next JS. O tema do quiz era de livre escolha, poderíamos utilizar o Layout base ou escolher nosso background e paleta de cores - escolhi a segunda opção. Construímos o quiz desde o zero, passando por vários conceitos importante do mundo React e Next JS.
 
@@ -22,7 +22,7 @@ Sinta-se desafiado em responder as perguntas
 
 - Padronização do código com Eslint
 
-## 💻 Rodando Localmente
+## Rodando Localmente
 
 Para rodar o Quiz localmente em modo de desenvolvimento você deve:
 
