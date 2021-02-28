@@ -3,7 +3,6 @@
 <p align="center">
  <a href="#project">Projeto</a> •
  <a href="#tech">Tecnologias</a> • 
- <a href="#build">Construção</a> • 
  <a href="#clone">Clone</a> • 
  <a href="#license">License</a>
 </p>
@@ -15,7 +14,7 @@ O projeto consiste em uma aplicação web, um quiz de perguntas e respostas. Ess
 <h3 align="center"><a href="https://alura-quiz-avengers.fernanda-kipper.vercel.app/">💻 Visite clicando aqui</a></h3>
 
 <p align="center">
-  <img src="aluraQuiz.gif" width="500px">
+  <img src="quiz.gif" width="500px">
 </p>
 
 <h2 id="tech" >Tecnologias</h2>
